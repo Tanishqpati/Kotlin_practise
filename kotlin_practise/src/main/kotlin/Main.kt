@@ -10,6 +10,8 @@ fun main(args: Array<String>) {
 //
 //    val constantVariable = 17;
 //    println(constantVariable)
+
+//    OPERATORS
     val x = 10;
     val y = 7;
     val result = x + y;
