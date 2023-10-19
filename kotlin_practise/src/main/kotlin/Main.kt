@@ -3,6 +3,7 @@ fun main(args: Array<String>) {
     println("I am going to be billionaire in the future")
 
     var myVariable:Int = 10;
+    myVariable =1;
     println("This is my variable: $myVariable")
 
 }
