@@ -7,4 +7,7 @@ fun main(args: Array<String>) {
     println("This is my variable: $myVariable")
     myVariable =1;
     println("The value is now $myVariable")
+
+    val constantVariable = 17;
+    println(constantVariable)
 }
